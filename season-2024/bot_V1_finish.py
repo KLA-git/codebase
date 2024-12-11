@@ -18,6 +18,7 @@ hub = PrimeHub()
 
 left_motor = Motor(Port.F, Direction.COUNTERCLOCKWISE)
 right_motor = Motor(Port.B, Direction.CLOCKWISE)
+#BLABLALBLA
 left_tool_motor = Motor(Port.E)
 right_tool_motor = Motor(Port.A)
 color_sensor = ColorSensor(Port.C)
